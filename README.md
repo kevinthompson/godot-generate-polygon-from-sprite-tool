@@ -4,8 +4,8 @@ A simple tool script for Godot 3 and 4 that generates a collision polygon from a
 
 Compatibile with Godot 3 and 4:
 
-- Link to Godot 4 Version
-- Link to Godot 3.5 Version
+- [Godot 4 Version](https://github.com/kevinthompson/godot-generate-polygon-from-sprite-tool/blob/main/godot4/sprite_to_collision_polygon.gd)
+- [Godot 3.5 Version](https://github.com/kevinthompson/godot-generate-polygon-from-sprite-tool/blob/main/godot3/sprite_to_collision_polygon.gd)
 
 ## About
 
@@ -15,7 +15,10 @@ These versions are also optimistic and will likely fail if the referenced nodes 
 
 ## Examples
 
-TODO: link image
+![Aseprite Texture Import GIF](https://github.com/kevinthompson/godot-generate-polygon-from-sprite-tool/blob/main/assets/aseprite_example.gif?raw=true)
+<br />
+<br />
+![Godot Texture Change GIF](https://github.com/kevinthompson/godot-generate-polygon-from-sprite-tool/blob/main/assets/texture_example.gif?raw=true)
 
 ## Credits
 
