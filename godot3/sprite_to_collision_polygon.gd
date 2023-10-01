@@ -13,7 +13,7 @@ func _ready():
 		$Sprite.texture.connect("changed", self, "_create_polygon2d_nodes_from_sprite2d")
 
 func _create_polygon2d_nodes_from_sprite2d(_value = null):
-	# Find First StaticBody2D Child
+	# Assume Sprite and StaticBody2D Exist
 	var sprite = $Sprite
 	var static_body = $StaticBody2D
 
