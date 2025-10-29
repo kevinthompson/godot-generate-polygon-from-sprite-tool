@@ -13,6 +13,9 @@ These scripts are provided as an example. Your actual implementation will likely
 
 These versions are also optimistic and will likely fail if the referenced nodes or textures do not yet exist. Add the script after setting up your scene, or get your hands dirty and add conditional checks for the relevant data.
 
+For and example of more complex shapes, view [the original gist](https://gist.github.com/kevinthompson/84b2010306817d7845d2b11e96da2c48#file-sprite_to_collision_polygon_complex-gd).
+
+
 ## Examples
 
 ![Aseprite Texture Import GIF](https://github.com/kevinthompson/godot-generate-polygon-from-sprite-tool/blob/main/assets/aseprite_example.gif?raw=true)
